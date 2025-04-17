@@ -6,14 +6,19 @@ const Footer = () => {
   return (
     <StyledFooter className="footer_container">
       <NavLink to="/Home">
-        <img src="/Resorces/fitpro_logo.png" alt="FitPro Logo" width="30px" id='logo' />
-        <span id='logotxt'>EVOLVE365</span><br />
-        
-
+        <img
+          src="/Resorces/fitpro_logo.png"
+          alt="FitPro Logo"
+          width="30px"
+          id="logo"
+        />
+        <span id="logotxt">EVOLVE365</span>
+        <br />
       </NavLink>
       <div className="footer_menu">
         <div className="footer_nav">
-          <h2>Quick Menu</h2><br />
+          <h2>Quick Menu</h2>
+          <br />
           <ul className="footer_navlist">
             <li>
               <NavLink to="/About">
@@ -78,7 +83,8 @@ const Footer = () => {
         </div>
       </div> */}
       <div className="terms">
-        <h2>Terms</h2><br />
+        <h2>Terms</h2>
+        <br />
         <div className="footer_nav">
           <ul className="footer_navlist">
             <li>
@@ -101,66 +107,66 @@ const Footer = () => {
       </div>
 
       <div className="footer_follow">
-        <h2>Follow Me</h2><br />
+        <h2>Follow Me</h2>
+        <br />
         <div className="footer_nav">
           <ul className="footer_navlist">
             <li>
-              <NavLink to="https://www.instagram.com/off_icialfitness365" target="blank">
+              <NavLink
+                to="https://www.instagram.com/evolv.e365/profilecard/?igsh=MWxjam1tN21uYmcxNg=="
+                target="blank"
+              >
                 <span>Instagram</span>
               </NavLink>
             </li>
             <li>
-              <NavLink to="https://www.facebook.com/share/HrvYQDRas9w6yxvk/?mibextid=qi2Omg" target="blank">
+              <NavLink
+                to="https://www.facebook.com/evolve365.2025"
+                target="blank"
+              >
                 <span>Facebook</span>
               </NavLink>
             </li>
-
           </ul>
         </div>
       </div>
     </StyledFooter>
-
   );
 };
 const StyledFooter = styled.div`
   display: flex;
   justify-content: space-around;
-  margin-top: 20px; 
-  
-  a{
-    color:#575757;
-    list-style:none;
-    text-decoration:none;
-    font-size:25px;
-    line-height:1.6;
+  margin-top: 20px;
+
+  a {
+    color: #575757;
+    list-style: none;
+    text-decoration: none;
+    font-size: 25px;
+    line-height: 1.6;
   }
-  
-  .footer_navlist{
+
+  .footer_navlist {
     text-decoration: none;
     list-style: none;
   }
 
-  .companyinfo{
+  .companyinfo {
     width: 20%;
     color: black;
   }
-  #logo{
+  #logo {
     margin-left: -5vw;
-    margin-top: -2vh
+    margin-top: -2vh;
   }
-  #logotxt{
+  #logotxt {
     color: black;
-    
-
   }
 
-  #tagline{
+  #tagline {
     font-size: 12px;
     margin-left: -5vw;
-
   }
-
- 
 `;
 
 export default Footer;
