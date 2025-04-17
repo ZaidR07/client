@@ -58,7 +58,7 @@ const About = () => {
       <div className="about_txt4"  style={{paddingLeft:'5vw' , marginTop:'5vh', minHeight:'25vh'}}>
         <h2>Team Info</h2><br />
         <p>
-        Meet the dynamic duo behind Fitness365: Zaid Rahman and Kajal Maurya. With their combined expertise in development and management, they are the driving force behind the success of our project. Dedicated to delivering excellence, they ensure that Fitness365 remains at the forefront of innovation, empowering individuals to achieve their fitness goals effortlessly.
+        Meet the idea behind Evolve365: Arshiya shaikh. With her expertise in development and management, she is the driving force behind the success of project. Dedicated to delivering excellence, they ensure that Evolve365 remains at the forefront of innovation, empowering individuals to achieve their fitness goals effortlessly.
         </p>
       </div>
     </StyledAbout>
