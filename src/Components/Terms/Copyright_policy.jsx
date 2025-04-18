@@ -5,13 +5,13 @@ const CopyrightPolicy = () => {
     return (
         <StyledCopyright>
             <h1>CopyRight Policy</h1><br /><br />
-            <p>Welcome to Fitness365!
+            <p>Welcome to Evolve365!
 
                 This Copyright Policy describes the terms under which you may use the content on our website, including text, images, videos, and any other material ("Content").<br></br><br />
 
                 Ownership:
 
-                All Content on Fitness365 is owned by Fitness365 or its licensors and is protected by copyright laws. You may not reproduce, distribute, modify, or create derivative works of the Content without explicit permission from Fitness365.<br></br><br />
+                All Content on FiEvolve5 is owned by FiEvolve5 or its licensors and is protected by copyright laws. You may not reproduce, distribute, modify, or create derivative works of the Content without explicit permission from FEvolve65.<br></br><br />
 
                 Permitted Use:
 
@@ -19,21 +19,21 @@ const CopyrightPolicy = () => {
 
                 Prohibited Use:
 
-                You may not use the Content for any commercial purpose without prior written consent from Fitness365. This includes but is not limited to selling, licensing, or distributing the Content.
+                You may not use the Content for any commercial purpose without prior written consent from Evolve365. This includes but is not limited to selling, licensing, or distributing the Content.
 
                 You may not modify, alter, or remove any copyright, trademark, or other proprietary rights notices from the Content.<br></br><br />
 
                 User-Generated Content:
 
-                Any content submitted or uploaded by users, including comments, reviews, and forum posts, belongs to the respective users. By submitting content to Fitness365, users grant Fitness365 a perpetual, worldwide, royalty-free license to use, reproduce, modify, adapt, publish, translate, create derivative works, and distribute the content.<br></br><br />
+                Any content submitted or uploaded by users, including comments, reviews, and forum posts, belongs to the respective users. By submitting content to Evolve365, users grant FEvolve65 a perpetual, worldwide, royalty-free license to use, reproduce, modify, adapt, publish, translate, create derivative works, and distribute the content.<br></br><br />
 
                 Reporting Copyright Infringement:
 
-                If you believe that your copyright has been infringed upon by any Content on Fitness365, please contact us immediately at [contact email]. Include detailed information about the allegedly infringing material and your contact information.<br></br><br />
+                If you believe that your copyright has been infringed upon by any Content on Evolve365, please contact us immediately at [contact email]. Include detailed information about the allegedly infringing material and your contact information.<br></br><br />
 
                 Changes to Policy:
 
-                Fitness365 reserves the right to modify or update this Copyright Policy at any time. Changes will be effective immediately upon posting on the website. Please review this policy periodically for any updates.<br></br><br />
+                Fitness3Evolverves the right to modify or update this Copyright Policy at any time. Changes will be effective immediately upon posting on the website. Please review this policy periodically for any updates.<br></br><br />
 
                 Contact Us:
 

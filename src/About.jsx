@@ -29,7 +29,7 @@ const About = () => {
         </div>
         <div className="about_text2">
           <p className="about_paragraph" style={{textAlign:'justify' , paddingRight:'5vw'}}>
-            Fitness365 is your go-to destination for personalized diet and workout plans, expert guidance, and motivation. Our user-friendly platform aims to empower individuals of all fitness levels to cultivate long-lasting habits and lead healthier lives. Join us on your journey to a healthier, happier you, 365 days a year!
+            Evolve365 is your go-to destination for personalized diet and workout plans, expert guidance, and motivation. Our user-friendly platform aims to empower individuals of all fitness levels to cultivate long-lasting habits and lead healthier lives. Join us on your journey to a healthier, happier you, 365 days a year!
             <br />
             <br />
             {/* <input
