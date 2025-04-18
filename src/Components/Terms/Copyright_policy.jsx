@@ -11,7 +11,7 @@ const CopyrightPolicy = () => {
 
                 Ownership:
 
-                All Content on FiEvolve5 is owned by FiEvolve5 or its licensors and is protected by copyright laws. You may not reproduce, distribute, modify, or create derivative works of the Content without explicit permission from FEvolve65.<br></br><br />
+                All Content on Evolve365 is owned by Evolve365 or its licensors and is protected by copyright laws. You may not reproduce, distribute, modify, or create derivative works of the Content without explicit permission from Evolve65.<br></br><br />
 
                 Permitted Use:
 
@@ -25,7 +25,7 @@ const CopyrightPolicy = () => {
 
                 User-Generated Content:
 
-                Any content submitted or uploaded by users, including comments, reviews, and forum posts, belongs to the respective users. By submitting content to Evolve365, users grant FEvolve65 a perpetual, worldwide, royalty-free license to use, reproduce, modify, adapt, publish, translate, create derivative works, and distribute the content.<br></br><br />
+                Any content submitted or uploaded by users, including comments, reviews, and forum posts, belongs to the respective users. By submitting content to Evolve365, users grant Evolve365 a perpetual, worldwide, royalty-free license to use, reproduce, modify, adapt, publish, translate, create derivative works, and distribute the content.<br></br><br />
 
                 Reporting Copyright Infringement:
 
@@ -33,11 +33,11 @@ const CopyrightPolicy = () => {
 
                 Changes to Policy:
 
-                Fitness3Evolverves the right to modify or update this Copyright Policy at any time. Changes will be effective immediately upon posting on the website. Please review this policy periodically for any updates.<br></br><br />
+                Evolve365 reserves the right to modify or update this Copyright Policy at any time. Changes will be effective immediately upon posting on the website. Please review this policy periodically for any updates.<br></br><br />
 
                 Contact Us:
 
-                If you have any questions or concerns about this Copyright Policy, please contact us at [officialfitness365mumbai@gmail.com].<br></br><br />
+                If you have any questions or concerns about this Copyright Policy, please contact us at [officialevolve365mumbai@gmail.com].<br></br><br />
 
                 Last Updated: [26/04/2024].</p>
         </StyledCopyright>

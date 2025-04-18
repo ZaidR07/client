@@ -47,7 +47,7 @@ const Terms_and_condition = () => {
 
                 10. Contact Us:
 
-                If you have any questions or concerns about these terms of use, please contact us at [officialfitness365mumbai@gmail.com].</p>
+                If you have any questions or concerns about these terms of use, please contact us at [officialevolve365mumbai@gmail.com].</p>
         </StyledTerms>
     )
 }
